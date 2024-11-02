@@ -1,2 +1,2 @@
-# iantimaeus
+# Ian Timaeus
 Personal webpage
